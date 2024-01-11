@@ -22,5 +22,18 @@
         "x": 160,
         "y": 120,
         "wires": []
+    },
+    {
+        "id": "4a7a251859a904e7",
+        "type": "complete",
+        "z": "92947af0b383ad80",
+        "name": "",
+        "scope": [],
+        "uncaught": false,
+        "x": 230,
+        "y": 280,
+        "wires": [
+            []
+        ]
     }
 ]
